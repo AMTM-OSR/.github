@@ -1,7 +1,7 @@
-# 📂 AMTM-OSR (Orphaned Scripts Revival)
+# 📂 AMTM-OSR (Orphaned Script Revival)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AMTM-OSR/AMTM-OSR/main/assets/banner.png" alt="AMTM-OSR Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/AMTM-OSR/.github/main/profile/amtm-osr.jpg" alt="AMTM-OSR Banner" width="100%">
 </p>
 
 <h1 align="center">Welcome to AMTM-OSR!</h1>
