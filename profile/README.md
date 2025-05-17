@@ -46,7 +46,7 @@ AMTM-OSR (Abandoned Scripts Revival) is a GitHub Organization dedicated to rescu
 ## 📢 Communication Channels
 - **Discussions & Issues:** Use GitHub Issues for bug reports and feature proposals.
 - **Pull Requests:** Submit code, docs, or test enhancements via PRs.
-- **Community Forum:** Join our SNBForums thread: [AMTM-OSR on SNBForums](https://www.snbforums.com/forums/amtm-osr)
+- **Community Forum:** Join our SNBForums thread: [AMTM-OSR on SNBForums][(https://www.snbforums.com/threads/announcing-amtm-osr-amtm-orphaned-script-revival-repository.94716/#post-955692)](https://www.snbforums.com/threads/announcing-amtm-osr-amtm-orphaned-script-revival-repository.94716/#post-955692)
 
 ## 🤝 Meet the Founder
 - **decoderman** (thelonelycoder) — Original AMTM contributor and co-founder.
