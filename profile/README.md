@@ -23,7 +23,7 @@ AMTM-OSR (Abandoned Scripts Revival) is a GitHub Organization dedicated to rescu
 
 ## 🚀 Getting Started
 1. **Browse Repositories**  
-   Explore our [Repositories](https://github.com/orgs/AMTM-OSR/repositories)) to see which scripts are currently hosted under our stewardship.
+   Explore our [Repositories](https://github.com/orgs/AMTM-OSR/repositories) to see which scripts are currently hosted under our stewardship.
 2. **Check Issues**  
    Visit the **Issues** tab on any repo to find open bugs, feature requests, or discussion threads.
 3. **Contribute**  
