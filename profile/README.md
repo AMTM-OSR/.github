@@ -51,7 +51,7 @@ AMTM-OSR (Abandoned Scripts Revival) is a GitHub Organization dedicated to rescu
 ## 🤝 Meet the Founder
 - **decoderman** (thelonelycoder) — Original AMTM contributor and co-founder.
 
-- ## 🤝 Meet the Team
+## 🤝 Meet the Team
 - **ExtremeFiretop** (Joel Samson) — Creator of MerlinAU
 - **Martinski4Github** (Martinski W) — Co-Creator of MerlinAU, and maintainer of many other OSR scripts
 
