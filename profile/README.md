@@ -49,7 +49,7 @@ AMTM-OSR (Orphaned Scripts Revival) is a GitHub Organization dedicated to rescui
 - **Community Forum:** Join our SNBForums thread: [AMTM-OSR on SNBForums](https://www.snbforums.com/threads/announcing-amtm-osr-amtm-orphaned-script-revival-repository.94716/#post-955692)
 
 ## 🤝 Meet the Founder
-- **decoderman** (thelonelycoder) — Original AMTM contributor and co-founder.
+- **decoderman** (thelonelycoder) — Original AMTM contributor and founder.
 
 ## 🤝 Meet the Team
 - **ExtremeFiretop** (Joel Samson) — Creator of MerlinAU
