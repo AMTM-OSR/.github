@@ -6,7 +6,7 @@
 
 <h1 align="center">Welcome to AMTM-OSR!</h1>
 <p align="center">
-  🔄 Maintaining and Reviving Abandoned ASUSWRT-Merlin Scripts<br>
+  🔄 Maintaining and Reviving Orphaned ASUSWRT-Merlin Scripts<br>
   🛠️ Community-Driven Updates & Maintenance<br>
   🤝 Open to All Contributors
 </p>
@@ -14,7 +14,7 @@
 ---
 
 ## 💡 What is AMTM-OSR?
-AMTM-OSR (Abandoned Scripts Revival) is a GitHub Organization dedicated to rescuing, maintaining, and improving scripts originally developed for ASUSWRT-Merlin (AMTM) routers that have fallen out of active maintenance. We provide a central home for these orphaned tools, ensuring they remain secure, compatible, and up-to-date.
+AMTM-OSR (Orphaned Scripts Revival) is a GitHub Organization dedicated to rescuing, maintaining, and improving scripts originally developed for ASUSWRT-Merlin (AMTM) routers that have fallen out of active maintenance. We provide a central home for these orphaned tools, ensuring they remain secure, compatible, and up-to-date.
 
 ## 📜 Our Mission
 - **Revival:** Identify and fork legacy AMTM scripts that are no longer maintained.
