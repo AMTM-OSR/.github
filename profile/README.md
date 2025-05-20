@@ -52,9 +52,10 @@ AMTM-OSR (Orphaned Scripts Revival) is a GitHub Organization dedicated to rescui
 - **decoderman** (thelonelycoder) — Original AMTM contributor and founder.
 
 ## 🤝 Meet the Team
-- **ExtremeFiretop** (Joel Samson) — Creator of MerlinAU, and maintainer of OSR scripts
-- **Martinski4Github** (Martinski W) — Co-Creator of MerlinAU, and maintainer of many other OSR scripts
+- **ExtremeFiretop** (ExtremeFiretop) — Creator of MerlinAU, and maintainer of OSR scripts
+- **Martinski4Github** (Martinski) — Co-Creator of MerlinAU, and maintainer of many other OSR scripts
 - **dave14305** (dave14305) — Creator of FlexQoS, and maintainer of OSR scripts
+- **jumpsmm7** (SomeWhereOverTheRainBow) — Creator of Asuswrt-Merlin-AdGuardHome-Installer, and maintainer of OSR scripts
 
 ## 🌟 Why Contribute?
 - Gain open-source experience and showcase your contributions.
